@@ -707,8 +707,7 @@ function analyzePronunciation(pronunciationResult) {
             React.createElement('div', { className: 'space-y-4' },
                 nBest.Words.map((word, index) => {
                     const fluencyScore = word.PronunciationAssessment?.FluencyScore || 
-                                      (word.PronunciationAssessment?.AccuracyScore * 0.7 + 
-                                       pronunciationResult.fluencyScore * 0.3);
+                    pronunciationResult.fluencyScore || 0;
                     
                     return React.createElement('div', {
                         key: index,
