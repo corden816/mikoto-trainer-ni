@@ -161,39 +161,16 @@ let pitchAnalyzer = {
 
 // 샘플 텍스트
 const sampleTexts = {
-    "1": "Here's everything you need to know about the new McDonald's app. It's all the things you love about McDonald's at your fingertips.",
+    "1": "hello world 1",
     
-    "2": `Good morning! How are you!
-
-Good. How are you?
-
-I'm good.
-
-There you go.
-
-To toronto?
-
-Yeah, Thank you.
-
-Do you have any bags? You're checking in?
-
-No, just my backpack.
-
-Okay, All right. You're all set.
-
-Perfect.
-
-And you're flying out of E86
-
-Thank you so much.
-
-You're welcome.
-
-Have a good one!`,
+    "2": `hello world 2`,
     
-    "3": `Whenever you walk along the street of small town of Sasebo, Japan, you will notice the long waiting line in front of the hamburger house. And looking around, you will find so many more hamburger places along the street. Then you might be thinking, why hamburger is so popular here? It's even a Japan.
+    "3": `hello world 3`,
 
-The hidden story of Sasebo hamburger is back to 1940's. During the World War 2, Sasebo was IJN's one of the biggest naval base. Several shipyards and factories for supply were located there. But after the war, the entire facilities were under controll of US navy, and Sasebo city becomes essential supply base for US navy pacific fleet. During the Korean War, more than 20,000 troops were sent to the base for operation.`
+    "4": `hello world 4`,
+
+    "5": `hello world 5`,
+
 };
 
 // Azure Speech SDK 초기화
