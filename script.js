@@ -234,11 +234,120 @@ Callie.
 $10.75.
 `,
     
-    "3": `hello world 3`,
+    "3": `Hi, I'd like a tall white chocolate mocha. 
 
-    "4": `hello world 4`,
+Okay, do you want it hot or iced? 
 
-    "5": `hello world 5`,
+Hot please.
+
+Alright.  
+
+And then may I have the banana nut bread?
+
+Yeah absolutely, did you want it warmed up? 
+
+Yes, warmed up please. 
+
+What's a good name for your order?
+
+Arianna. 
+
+Alright it's gonna $9.43. 
+
+Thank you. 
+
+No problem. You doing Apple pay? 
+
+Yes.  
+
+Ok. It should be ready for you on the screen. Awesome. Do you need a receipt? 
+
+Yes please. 
+
+Alrighty. Here you go.
+
+Thank you. 
+
+Yeah, we’ll have it right out.
+
+Thanks.
+`,
+
+    "4": `Hello.
+
+Can I get a vanilla latte iced please?
+
+Yes, of course. Do you want the cream on top?
+
+Yes, please. Is it super sweet?
+
+It’s not super sweet, it is subtly sweet.
+
+Is there anything you would recommend? Or is it the best that way?
+
+I think it is the best that way or you can taste it and I can add more syrup.
+
+Oh, ok that’s fine. I’ll get the iced vanilla latte.
+
+Iced latte? 
+
+Yes.
+
+You mean the cream on the top right?
+
+Yeah Yeah.
+
+Regular milk is okay for you?
+
+Yeah.
+
+Anything else?
+
+That’s it.
+
+Can I get a name for the order please?
+
+Red.
+
+Sorry?
+
+Red, like the color.
+
+Red? Okay.
+`,
+
+    "5": `Hello.
+
+Hello, what is the difference of the first one and the second one?
+
+The first one is goint to be einspanner latte which is the latte with the cream on top and Vienna einspanner is americano with the cream on top.
+
+Oh, I’ll get the second one.
+
+Vienna eispanner then. it is gonna be espresso with water with the cream on top.
+
+Yeah.
+
+Iced? or Hot?
+
+Uh…. Hot
+
+Ok, anything else for you?
+
+No, that’s all.
+
+One hot Vienna einspanner it's $7.66.
+
+Can I get a name for the order please?
+
+Sammy.
+
+Sorry.
+
+Sammy.
+
+Sammy. Thank you.
+`,
 
 };
 
