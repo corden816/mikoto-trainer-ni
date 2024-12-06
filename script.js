@@ -161,9 +161,78 @@ let pitchAnalyzer = {
 
 // 샘플 텍스트
 const sampleTexts = {
-    "1": "hello world 1",
+    "1": `Callie?
+
+Yes.
+
+Okay it’s $20.62
+
+Okay.
+
+Need a drink carrier?
+
+Umm I don’t think so. I think we’re all set.
+
+Okay.
+
+Yep, I’ve got two gift cards here.
+
+Okay and then $3.52 is the rest. One the screen first and then it’ll go to the next page.
+
+Okay.
+
+Did you want me to throw these away for you?
+
+Umm sure.
+
+Do you want straws for everything kor just the frappe?
+
+Yeah, I guess so we’ll take straws. thank you so much.
+
+Have a good one.
+
+You too.`
+    ,
+
+
+    "2": `Hello, how are you?
     
-    "2": `hello world 2`,
+Good, how are you doing?
+
+Good, what can I get for you?
+
+What kind of nondairy milk do you have?
+
+We have oat and almond.
+
+Oat and almond. can I do… umm... is the dirty tiger like thai tea?
+
+Yeah.
+
+Okay I’ll do one of those with almond milk.
+
+So, it usually gets made with sweetened condensed milk so I can do it with almond milk instead and vanilla. If that’s okay.
+
+Oh yeah. I’ll do that then. And then just do you do ice americano?
+
+Yeah.
+
+Okay and an iced americano. And that’s good for now.
+
+Alright for the iced americano which size did you do?
+
+Small one.
+		
+Any cream or sugar?
+
+No thanks.
+
+And your name?
+
+Callie.
+
+$10.75.
+`,
     
     "3": `hello world 3`,
 
