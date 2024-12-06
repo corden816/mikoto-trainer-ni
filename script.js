@@ -195,43 +195,27 @@ You too.`
     ,
 
 
-    "2": `Hello, how are you?
-    
-Good, how are you doing?
+    "2": `I’ll go for honey rosemary latte.
 
-Good, what can I get for you?
+For the honey rosemary. We’re out of that syrup but we can do honey lavender if you’d like.
 
-What kind of nondairy milk do you have?
+Sure, is it pretty sweet?
 
-We have oat and almond.
+Um... it’s not super sweet.
 
-Oat and almond. can I do… umm... is the dirty tiger like thai tea?
+Ok.
 
-Yeah.
+We can make it like half sweet if you wanted to. For the 16 Ounce we put 3 Ounces of it so we can do like one and a half.
 
-Okay I’ll do one of those with almond milk.
+Okay, I’ll go for 12.
 
-So, it usually gets made with sweetened condensed milk so I can do it with almond milk instead and vanilla. If that’s okay.
+A 12 Ounce? Okay. You okay with whole milk in that? 
 
-Oh yeah. I’ll do that then. And then just do you do ice americano?
+Sure.
 
-Yeah.
+We also have almond and oat milk.
 
-Okay and an iced americano. And that’s good for now.
-
-Alright for the iced americano which size did you do?
-
-Small one.
-		
-Any cream or sugar?
-
-No thanks.
-
-And your name?
-
-Callie.
-
-$10.75.
+Umm, almond please.
 `,
     
     "3": `Hi, I'd like a tall white chocolate mocha. 
